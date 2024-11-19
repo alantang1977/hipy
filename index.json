@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "360影视[官](drpy_t3)",
+			"name": "🥎360影视[官](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -17,7 +17,7 @@
 		},
 		{
 			"key": "hipy_js_菜狗[官]",
-			"name": "菜狗[官](drpy_t3)",
+			"name": "🐶菜狗[官](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -28,7 +28,7 @@
 		},
 		{
 			"key": "hipy_js_奇珍异兽[官]",
-			"name": "奇珍异兽[官](drpy_t3)",
+			"name": "🫖奇珍异兽[官](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -39,7 +39,7 @@
 		},
 		{
 			"key": "hipy_js_优酷[官]",
-			"name": "优酷[官](drpy_t3)",
+			"name": "🪂优酷[官](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -50,7 +50,7 @@
 		},
 		{
 			"key": "hipy_js_腾云驾雾[官]",
-			"name": "腾云驾雾[官](drpy_t3)",
+			"name": "🌤️腾云驾雾[官](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -61,7 +61,7 @@
 		},
 		{
 			"key": "hipy_js_百忙无果[官]",
-			"name": "百忙无果[官](drpy_t3)",
+			"name": "🥤百忙无果[官](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
